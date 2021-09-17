@@ -22,3 +22,15 @@
 # git show  
  view object(commited)
 # git tag
+# git branch 
+ show branch status
+# git checkout
+ chekout branch
+# git merge
+ local and master branch merge
+# git remote
+ before pull request
+# git push 
+ all file push github
+# git pull
+clone and change
